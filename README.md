@@ -10,3 +10,6 @@ And when to combine them both
 
 Exercise 3
 Was simple but taught how to combine class and the properties 
+
+Exercise 4 
+Learned Chaining
