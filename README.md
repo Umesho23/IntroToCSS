@@ -13,3 +13,6 @@ Was simple but taught how to combine class and the properties
 
 Exercise 4 
 Learned Chaining
+
+Exercise 5
+Learned when to use descendant Combinator
