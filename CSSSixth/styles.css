@@ -1,0 +1,35 @@
+.first{
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body .second{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+body .third{
+    color: white;
+    background-color: green;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.fourth{
+    font-size:22px;
+    color: black;
+    background-color: white;
+}
+
+div{
+    font-weight: 100;
+    font-size: 20px;
+}
+
+div.fifth{
+    color:aqua;
+}

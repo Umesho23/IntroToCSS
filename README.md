@@ -16,3 +16,6 @@ Learned Chaining
 
 Exercise 5
 Learned when to use descendant Combinator
+
+Exercise 6 
+Applying knowledge and when to use class and when to combine them
